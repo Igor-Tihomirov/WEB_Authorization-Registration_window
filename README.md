@@ -12,7 +12,7 @@
 	<img src="ImgExample/AuthorizationWnd.PNG"/>
 </div>
 
-<div>
+<div style="margin-top: 15px;">
 	<p>
 		Окно регистрации:
 	</p>
